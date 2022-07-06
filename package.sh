@@ -5,3 +5,5 @@ git clone  https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
 # vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
+# alist
+git clone https://github.com/sbwml/openwrt-alist --depth=1 package/luci-app-alist
